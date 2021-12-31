@@ -1,4 +1,4 @@
-# reinforcement-learning-algorithms
+# Reinforcement Learning Algorithms
 
 This repository contains various reinforcement learning algorithms with explanations.
 
